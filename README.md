@@ -1,8 +1,6 @@
-# Battery Dataset Catalog
+# Battery-Relevant Dataset Catalog
 
-A curated catalog of publicly available datasets for battery-related molecular and materials research, including organic small molecules, molecular crystals, electrolyte mixtures, and polymers.
-
-This repository is designed for **academic reference, benchmarking, and dataset discovery** in energy storage research.
+A curated catalog of publicly available molecular and materials datasets with properties relevant to electrochemical and battery systems, including organic small molecules, molecular crystals, electrolyte mixtures, and polymers.
 
 ---
 
@@ -10,13 +8,12 @@ This repository is designed for **academic reference, benchmarking, and dataset 
 
 This repository indexes publicly available datasets relevant to:
 
-- Battery materials discovery
-- Electrolyte design
-- Molecular property prediction
-- Solid-state ion transport
-- Data-driven energy storage modeling
+- Molecular and polymer property prediction
+- Electrolyte systems modeling and design
+- Battery materials discovery and simulation
+- Solid-state and crystalline materials modeling
 
-It does NOT host datasets, only provides structured links to original sources.
+It does NOT host datasets, only provides structured references to original sources.
 
 ---
 
@@ -28,7 +25,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 
 ## 2.1 Organic Small Molecules
 
-Small organic molecules used in electrolytes, redox species, and organic electrode materials.
+Small organic molecules with properties relevant to electrochemical systems, including redox activity and solvation behavior.
 
 | Dataset | Source | Size | Key Properties | Link |
 |--------|--------|------|----------------|------|
@@ -39,7 +36,7 @@ Small organic molecules used in electrolytes, redox species, and organic electro
 
 ## 2.2 Molecular Crystals
 
-Crystalline materials for solid-state electrolytes and electrode systems.
+Crystalline materials with properties relevant to ion transport and electrochemical systems.
 
 | Dataset | Source | Size | Key Properties | Link |
 |--------|--------|------|----------------|------|
@@ -61,7 +58,7 @@ Liquid electrolyte systems including solvents, salts, and additives.
 
 ## 2.4 Polymers
 
-Polymer electrolytes and ion-conducting materials.
+Polymer systems with properties relevant to ion transport and electrochemical behavior.
 
 | Dataset | Source | Size | Key Properties | Link |
 |--------|--------|------|----------------|------|
