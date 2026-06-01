@@ -57,6 +57,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | Gutmann |--| Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | MNSOL |--| Exp | 2K | ΔG(sol) | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
 | ASMS |--| Exp | 1,708 | aqueous solubility | [Link](https://pubs.acs.org/doi/full/10.1021/ci800406y) |
+| SOMAS |--| PBE0/6–31 G** | 12K | HOMO, LUMO, aqueous solubility | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | -- |--| Exp | > 4K | viscosity | [Link](https://link.springer.com/article/10.1186/s13321-024-00820-5) |
 | 3DG-MP |--| Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | -- |--| Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
