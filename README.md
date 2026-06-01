@@ -83,8 +83,9 @@ Liquid electrolyte systems including solvents, salts, and additives.
 
 | Dataset | Description | Method | Size | Key Properties | Access |
 |:--------|:-------------|:--------|:------|:------------|:------|
-| CALiSol-23 |--| Exp | 13K | conductivity | [Link](https://github.com/Pele0599/CALiSol-23) |
-| -- |--| MD + Exp | 13K | conductivity | [Link](https://www.nature.com/articles/s42256-025-01173-w) |
+| Shi J. et al |--| MD | 2K | Li diffusion doefficient, ionic conductivity | [Link](https://doi.org/10.1021/acs.jpclett.5c02681) |
+| Yang Z. et al |--| Exp | 10K | ionic conductivity | [Link](https://huggingface.co/ByteDance-Seed/bamboo_mixer) |
+| CALiSol-23 |--| Exp | 13K | ionic conductivity | [Link](https://github.com/Pele0599/CALiSol-23) |
 
 ---
 
