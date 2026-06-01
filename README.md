@@ -99,6 +99,6 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 | HTP-MD |--| MD | 6k | ionic conductivity, Li Diffusivity | [Link](https://www.htpmd.matr.io/ ) |
 | Chem-Arr |--| Exp | 15k | ionic conductivity | [Link](https://github.com/learningmatter-mit/Chem-prop-pred) |
 | OpenPoly |--| Exp | 13k | Tg, Eg, Tensile modulus | [Link](https://cleanenergymaterials.cn/polymer/polymer_database/experiment_polymer_database) |
-| Polymer Scholar |--| Exp | >100k | Tg, Eg, Tensile modulus, Young's modulus | [Link](https://polymerscholar.org/) |
+| Polymer Scholar |--| Mixed | >100k | Tg, Eg, Tensile modulus, Young's modulus | [Link](https://polymerscholar.org/) |
 
 ---
