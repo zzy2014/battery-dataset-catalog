@@ -46,7 +46,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 
 Small organic molecules with properties relevant to electrochemical systems, including redox activity and solvation behavior.
 
-| Dataset | Elements | Max Num(non-H) |  Method | Size | Key Properties | Access |
+| Dataset | Elements | Max[num(non-H)] |  Method | Size | Key Properties | Access |
 |:---------|:----------|:---|:------|:-----|:----------|:----|
 | QM9 |H,C,N,O,F| 9 |B3LYP/6-31G(2df,p) | 134K | HOMO, LUMO, μ| [Link](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) |
 | QMugs |--| 100 |ωB97X-D/def2-SVP | ~2M | HOMO, LUMO, μ| [Link](https://libdrive.ethz.ch/index.php/s/X5vOBNSITAG5vzM) |
