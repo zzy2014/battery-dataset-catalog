@@ -64,7 +64,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | Gutmann |H,C,N,O,F,P,<br>S,Cl,Cr,Br,I| 26 |Exp | 224 | AN, DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | SCUT-VISC |H,C,O,F| 14 |MD | 277 | VISC | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |
 | Schrödinger-VISC |H,C,N,O,F,Si,<br>P,S,Cl,Br,I| 36 |Exp | 3K | VISC | [Link](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-024-00820-5/MediaObjects/13321_2024_820_MOESM2_ESM.csv) |
-| 3DG-MP |--| ? |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
+| 3DG-MP |H,C,N,O,F,P,<br>S,Cl,Se,Br,I| 123 |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | NanjingTech-DC |--| ? |Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
 
 ---
