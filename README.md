@@ -21,7 +21,7 @@ It does NOT host datasets, only provides structured references to original sourc
 
 Datasets are organized by **material type**, reflecting chemical and physical modeling workflows.
 
-| Abbreviation | Definition |
+| Abbreviation/Symbol | Definition |
 |:---|:---|
 | MNHA | Maximum Number of Heavy Atoms |
 | Exp | Experiments |
@@ -35,7 +35,9 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 | DN | Donor Number |
 | DC | Dielectric Constant |
 | MP | Melting Point |
-| ΔG(sol) | Solvent Free Energy |
+| VISC | Viscosity |
+| AqSol | Aqueous Solubility |
+| SFE | Solvent Free Energy |
 | μ | Molecular Dipole Moment |
 | E₀ | Redox Potential |
 | Eg | Band Gap |
@@ -55,13 +57,13 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | MPcules |H,Li,B,C,N,O,<br>F,Mg,P,S,Cl| 31 |ωB97M-V/def2-TZVPPD | 577K | EA, IP, E₀| [Link](https://next-gen.materialsproject.org/molecules) |
 | ConGen |H,B,C,N,O,F,<br>Si,P,S,Cl,Br| 92 |B3LYP/6-31+G* | 62K | EA, IP | [Link](https://github.com/jpmailoa/ConGen_Dataset/blob/main/Figure_3_Training_Data/data_Table_2/table_2_MP_IE_EA.csv) |
 | OMEAD |H,Li,C,N,O,F,<br>Na,S,Cl,Zn,Se,Br| 122 |B3LYP/6–31G(d) | 26K | HOMO, LUMO, EA, IP, E₀ | [Link](https://github.com/rpcarvs/anima/blob/main/databases/OMEAD_26218.csv) |
-| MNSOL |--| ? |Exp | 2K | ΔG(sol) | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
-| ASMS |--| ? |Exp | ~2K | aqueous solubility | [Link](https://pubs.acs.org/doi/suppl/10.1021/ci800406y/suppl_file/ci800406y_si_001.xls) |
-| SOMAS |--| ? |PBE0/6–31 G** | 12K | HOMO, LUMO, aqueous solubility | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
+| MNSOL |--| ? |Exp | 2K | SFE | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
+| ASMS |--| ? |Exp | ~2K | AqSol | [Link](https://pubs.acs.org/doi/suppl/10.1021/ci800406y/suppl_file/ci800406y_si_001.xls) |
+| SOMAS |--| ? |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | SCUT-DN |--| ? |Exp | 210 | DN | [Link](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.202411437&file=anie202411437-sup-0001-Supporting-Information-Sheets.xlsx) |
 | Gutmann |--| ? |Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
-| SCUT-VISC |--| ? |MD | 277 | viscosity | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |
-| Schrödinger-VISC |--| ? |Exp | 3K | viscosity | [Link](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-024-00820-5/MediaObjects/13321_2024_820_MOESM2_ESM.csv) |
+| SCUT-VISC |--| ? |MD | 277 | VISC | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |
+| Schrödinger-VISC |--| ? |Exp | 3K | VISC | [Link](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-024-00820-5/MediaObjects/13321_2024_820_MOESM2_ESM.csv) |
 | 3DG-MP |--| ? |Exp | 237K | MP | [Link](https://github.com/Hyanqing/3DG-MP) |
 | NanjingTech-DC |--| ? |Exp | 101 | DC | [Link](https://doi.org/10.60893/figshare.jcp.c.7791965) |
 
