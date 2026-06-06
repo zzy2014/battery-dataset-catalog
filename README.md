@@ -88,10 +88,10 @@ Crystalline materials with properties relevant to ion transport and electrochemi
 Liquid electrolyte systems including solvents, salts, and additives.
 
 | Dataset | Elements | Method | Size | Key Properties | Access |
-|:------------|:---|:---------|:-|:----------|:-|
-| NUAA-COND |H,Li,C,N,O,<br>F,P,S| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
-| ByteDance-mix |--| Exp | 10K | COND | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/formula_finetune_exp_data.json.xz) |
-| CALiSol-23 |H,Li,C,N,O,<br>F,P,S| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
+|:------------|:------|:---------|:-|:----------|:-|
+| NUAA-COND |H,Li,C,N,O,F,P,S| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
+| ByteDance-mix |H,B,C,N,O,F,P,S,Cl| Exp | 10K | COND | [Link](https://github.com/ByteDance-Seed/bamboo_mixer/blob/main/data_oss/formula_finetune_exp_data.json.xz) |
+| CALiSol-23 |H,Li,C,N,O,F,P,S| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
 
 ---
 
