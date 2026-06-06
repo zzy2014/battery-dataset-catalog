@@ -36,6 +36,7 @@ Datasets are organized by **material type**, reflecting chemical and physical mo
 | DC | Dielectric Constant |
 | MP | Melting Point |
 | VISC | Viscosity |
+| COND | Ionic Conductivity |
 | AqSol | Aqueous Solubility |
 | SFE | Solvent Free Energy |
 | μ | Molecular Dipole Moment |
@@ -86,9 +87,9 @@ Liquid electrolyte systems including solvents, salts, and additives.
 
 | Dataset | Description | Method | Size | Key Properties | Access |
 |:----------|:-------------|:------|:-----|:------------|:-----|
-| NUAA-COND |--| MD | 2K | Li diffusion coefficient, ionic conductivity | [Link](https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.5c02681/suppl_file/jz5c02681_si_002.csv) |
-| ByteDance-COND |--| Exp | 10K | ionic conductivity | [Link](https://huggingface.co/ByteDance-Seed/bamboo_mixer) |
-| CALiSol-23 |--| Exp | 13K | ionic conductivity | [Link](https://github.com/Pele0599/CALiSol-23) |
+| NUAA-COND |--| MD | 2K | Li diffusion coefficient, COND | [Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02681#_i2) |
+| ByteDance-COND |--| Exp | 10K | COND | [Link](https://huggingface.co/ByteDance-Seed/bamboo_mixer) |
+| CALiSol-23 |--| Exp | 13K | COND | [Link](https://github.com/Pele0599/CALiSol-23) |
 
 ---
 
@@ -106,8 +107,8 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 | Polymer Scholar |--| Mixed | >100k | Tg, Eg, Tensile modulus, Young's modulus | [Link](https://polymerscholar.org/) |
 | PoLyInfo |--| Exp | >200K | DC, Tg, Tensile modulus | [Link](https://polymer.nims.go.jp/) |
 | PolyOmics |--| MD | 3M | DC, Tg, bulk modulus, self-diffusion coefficient | [Link](https://huggingface.co/datasets/yhayashi1986/PolyOmics) |
-| PEDatamine |--| Exp | 5k | Tg, ionic conductivity | [Link](https://pedatamine.org/) |
-| HTP-MD |--| MD | 6k | ionic conductivity, Li diffusion coefficient | [Link](https://www.htpmd.matr.io/ ) |
-| Chem-Arr |--| Exp | 15k | ionic conductivity | [Link](https://github.com/learningmatter-mit/Chem-prop-pred) |
+| PEDatamine |--| Exp | 5k | Tg, COND | [Link](https://pedatamine.org/) |
+| HTP-MD |--| MD | 6k | COND, Li diffusion coefficient | [Link](https://www.htpmd.matr.io/ ) |
+| Chem-Arr |--| Exp | 15k | COND | [Link](https://github.com/learningmatter-mit/Chem-prop-pred) |
 
 ---
