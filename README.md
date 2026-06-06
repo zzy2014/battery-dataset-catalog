@@ -59,7 +59,7 @@ Small organic molecules with properties relevant to electrochemical systems, inc
 | OMEAD |H,Li,C,N,O,F,<br>Na,S,Cl,Zn,Se,Br| 122 |B3LYP/6–31G(d) | 26K | HOMO, LUMO, EA, IP, E₀ | [Link](https://github.com/rpcarvs/anima/blob/main/databases/OMEAD_26218.csv) |
 | MNSOL |H,C,N,O,F,<br>Si,P,S,Cl,Br,I| 28 |Exp | 2K | SFE | [Link](https://conservancy.umn.edu/items/c3db00cf-d573-461b-adf5-389ff929d918) |
 | ASMS |H,C,N,O,F,<br>P,S,Cl,Br,I| 54 |Exp | ~2K | AqSol | [Link](https://pubs.acs.org/doi/suppl/10.1021/ci800406y/suppl_file/ci800406y_si_001.xls) |
-| SOMAS |H,B,C,N,O,<br>F,Si,P,S,Cl,<br>Ge,As,Se,Br,I| 66 |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
+| SOMAS |H,B,C,N,O,F,Si,P,S,Cl,<br>Ge,As,Se,Br,I| 66 |PBE0/6–31 G** | 12K | HOMO, LUMO, AqSol | [Link](https://figshare.com/articles/dataset/SOMAS/14552697) |
 | SCUT-DN |--| ? |Exp | 210 | DN | [Link](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fanie.202411437&file=anie202411437-sup-0001-Supporting-Information-Sheets.xlsx) |
 | Gutmann |--| ? |Exp | 224 | AN,DN | [Link](https://www.stenutz.eu/chem/gutmann.php) |
 | SCUT-VISC |--| ? |MD | 277 | VISC | [Link](https://ars.els-cdn.com/content/image/1-s2.0-S2095495624007265-mmc2.xlsx) |
