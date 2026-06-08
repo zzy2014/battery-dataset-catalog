@@ -102,7 +102,7 @@ Polymer systems with properties relevant to ion transport and electrochemical be
 | Dataset | Elements | Method | Size | Key Properties | Access |
 |:------------|:------|:---------|:-|:----------|:-|
 | PPPdb |--| Exp | 212 | Tg | [Link](https://pppdb.uchicago.edu/tg) |
-| VitrimerVAE |--| MD | 8K | Tg | [Link](https://github.com/vashisth-lab/VitrimerVAE/blob/main/Calibration/tg_vitrimer_calibrated.csv) |
+| VitrimerVAE |H,C,N,O| MD | 8K | Tg | [Link](https://github.com/vashisth-lab/VitrimerVAE/blob/main/Calibration/tg_vitrimer_calibrated.csv) |
 | PolyMetriX |--| Exp | 7K | Tg | [Link](https://zenodo.org/records/14980914) |
 | Chemprop |--| xTB+B3LYP/DZP | 42K | EA, IP | [Link](https://github.com/coleygroup/polymer-chemprop-data) |
 | OpenPoly |--| Exp | 13k | Tg, Eg, Tensile modulus | [Link](https://cleanenergymaterials.cn/polymer/polymer_database/experiment_polymer_database) |
